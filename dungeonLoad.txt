@@ -1,0 +1,8 @@
+0name,1health,2gold,3class,4level,5rage,6terrify,7heavy,8assassinate,9poison,10fireball,11missile,12armor,13status,14locationY,15locationX
+conan,12,30,b,2,2,1,4,0,0,0,0,0,alive,5,5
+test,29,3,r,1,0,0,0,0,0,0,0,0,dead,12,3
+vax,100,1,r,1,0,0,0,2,3,0,0,0,alive,17,14
+bob,20,48,b,1,2,1,5,0,0,0,0,0,alive,13,25
+rog,19,11790,r,3,0,0,0,2,5,0,0,0,dead,2,1
+bub,9,77,b,1,1,0,5,0,0,0,0,0,alive,9,26
+migen,-2,9999999,w,3,0,0,0,0,0,0,0,0,dead,15,12

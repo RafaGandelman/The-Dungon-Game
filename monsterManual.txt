@@ -1,0 +1,6 @@
+2,Skeleton,9,12,2,6,It fires an arrow from is crooked bow!
+1,Kobold,7,11,2,4,It launches a javelin towards you!
+3,Goblin,8,13,2,6,It slashes its rusted dagger towards you!
+4,Zombie,12,10,2,6,It swings its decaying fists towards you!
+5,Orc,15,12,3,8,It swings its large greataxe towards you!
+6,Gargoyle,17,15,3,8,It swings its stone claws towards you!
